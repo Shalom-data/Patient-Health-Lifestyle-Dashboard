@@ -10,7 +10,7 @@
 2. [Project Objectives](#project-objectives)
 3. [Methodology](#methodology)
 4. [Key Pages in This Report](#key-pages-in-this-report)
-   - [Page 1 → Demographics & Risk Overview](#page-1-→-demographics-&-risk-overview) 
+   - [Page 1 → Demographics & Risk Overview](#page-1-demographics-risk-overview) 
 6. [Detailed Insights](#detailed-insights)
 7. [Disclaimer](#disclaimer)
 8. [Actionable Recommendations](#actionable-recommendations)
