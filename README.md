@@ -235,6 +235,8 @@ This page establishes who the patients are, their smoking behavior, BMI distribu
 
 **Organ toggle:** Users can switch between the Damaged and Healthy patient views using the toggle in the header, dynamically filtering all visuals on the page.
 
+<img width="616" height="344" alt="page1" src="https://github.com/user-attachments/assets/c88013ce-7e0f-4052-8787-d46f5fbff639" />
+
 ---
 
 ### Page 2 → Organ Damage Risk Drivers
@@ -250,6 +252,8 @@ This page shifts from description to analysis, examining organ damage rates acro
 - Organ Damage vs BMI Category (bar chart)
 - Organ Damage Across Age Groups (clustered column chart with average reference line)
 - Rate of Damage by Organs (stacked bar chart)
+
+<img width="616" height="346" alt="page2" src="https://github.com/user-attachments/assets/e3bb9958-c053-4bdf-b1f3-c4501a75f99c" />
 
 ---
 
@@ -272,6 +276,10 @@ This page uses Power BI's built-in Key Influencers AI visual to move beyond sing
 | Segment 1 | Male, Obese Class III, non-moderate alcohol consumption | 51.3% | 437 |
 | Segment 2 | Underweight BMI | 50.9% | 530 |
 | Segment 3 | Male, Normal BMI, non-moderate alcohol consumption | 47.8% | 414 |
+
+
+<img width="620" height="344" alt="page3" src="https://github.com/user-attachments/assets/85e51276-c67d-49db-bcc6-5804d80bd157" />
+
 
 > **Analytical note:** A fourth segment identified by Power BI involved the Risk Category variable and was excluded from reporting. Because Risk Category is derived from other predictor variables already included in the model, retaining it would introduce circular reasoning into the analysis.
 
