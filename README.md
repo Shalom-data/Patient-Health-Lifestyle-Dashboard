@@ -237,7 +237,7 @@ This page establishes who the patients are, their smoking behavior, BMI distribu
 
 ---
 
-### Page 2 — Organ Damage Risk Drivers
+### Page 2 → Organ Damage Risk Drivers
 
 *Organ damage affects 42% of patients uniformly across age, organ type, and BMI, with underweight patients and males showing the highest damage rates*
 
@@ -253,7 +253,7 @@ This page shifts from description to analysis, examining organ damage rates acro
 
 ---
 
-### Page 3 — Key Influencers & Risk Factor Combinations
+### Page 3 → Key Influencers & Risk Factor Combinations
 
 *Organ damage affects 42% of patients with no clear link to age, cholesterol, or family history. male gender, underweight BMI, and high alcohol consumption emerge as the strongest associated risk factors*
 
@@ -345,7 +345,7 @@ Male gender appears in two of the three highest-risk patient segments and shows 
 
 ## Conclusion
 
-This dashboard demonstrates that organ damage in this synthetic patient population does not follow a simple, single-factor risk model. No individual variable — age, cholesterol, BMI class, smoking status, or family history — shows a strong, clean association with damage outcomes on its own. Instead, damage is distributed broadly across the population, with combinations of moderate risk factors — particularly male gender, non-moderate alcohol consumption, and underweight BMI — emerging as the most consistently associated profiles.
+This dashboard demonstrates that organ damage in this synthetic patient population does not follow a simple, single-factor risk model. No individual variable; age, cholesterol, BMI class, smoking status, or family history shows a strong, clean association with damage outcomes on its own. Instead, damage is distributed broadly across the population, with combinations of moderate risk factors particularly male gender, non-moderate alcohol consumption, and underweight BMI, emerging as the most consistently associated profiles.
 
 The project showcases end-to-end Power BI development including data cleaning, feature engineering, DAX measure development, multi-page report design, and AI-assisted segment analysis. The analytical decisions, including what was excluded from the Key Influencers model and why, are documented to reflect a transparent and defensible approach to the work.
 
